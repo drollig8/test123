@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Dies ist Version C")
+        print("Dies ist Version C1")
     }
 
     override func didReceiveMemoryWarning() {
